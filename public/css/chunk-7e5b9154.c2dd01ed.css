@@ -1,0 +1,159 @@
+[class*=" icon-"][data-v-3814ea60]:before,
+[class^="icon-"][data-v-3814ea60]:before {
+  font-family: Fontello;
+  font-style: normal;
+  font-weight: 400;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: 0.2em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  margin-left: 0.2em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-facebook[data-v-3814ea60]:before {
+  content: "";
+}
+.button-social [data-v-3814ea60] {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.button-social[data-v-3814ea60] {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  cursor: pointer;
+  padding: 7px 10px;
+  margin: 3px 1.5px;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+.button-social[data-v-3814ea60]:hover {
+  opacity: 0.9;
+}
+.button-social__square_edges[data-v-3814ea60] {
+  border-radius: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+}
+.facebook__design__flat[data-v-3814ea60] {
+  background-color: #3b5998;
+  color: #fefefe;
+}
+.facebook__design__gradient[data-v-3814ea60] {
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#3b5998),
+    to(#5977b6)
+  );
+  background-image: linear-gradient(180deg, #3b5998, #5977b6);
+  background-image: -ms-linear-gradient(to bottom, #3b5998, #5977b6);
+  color: #fefefe;
+}
+.facebook__design__outline[data-v-3814ea60] {
+  background-color: #fefefe;
+  border: 1px solid #3b5998;
+  color: #3b5998;
+}
+.title-social[data-v-3814ea60] {
+  margin-left: 0;
+}
+.counter-facebook[data-v-3814ea60] {
+  margin-left: 6px;
+  padding-left: 6px;
+}
+.facebook__design__flat .counter-facebook[data-v-3814ea60],
+.facebook__design__gradient .counter-facebook[data-v-3814ea60] {
+  border-left: 1px solid hsla(0, 0%, 99.6%, 0.5);
+}
+.facebook__design__outline .counter-facebook[data-v-3814ea60] {
+  border-left: 1px solid rgba(59, 89, 152, 0.5);
+}
+@font-face {
+  font-family: Fontello;
+  src: url(../../static/fonts/fontello.a1386b4b.eot);
+  src: url(../../static/fonts/fontello.a1386b4b.eot#iefix)
+      format("embedded-opentype"),
+    url(../../static/fonts/fontello.24fc0a90.woff2) format("woff2"),
+    url(../../static/fonts/fontello.a51fe381.woff) format("woff"),
+    url(../../static/fonts/fontello.6eb82fdf.ttf) format("truetype"),
+    url(../../static/img/fontello.2382f1e6.svg#fontello) format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+[class*=" icon-"][data-v-2dcfd48e]:before,
+[class^="icon-"][data-v-2dcfd48e]:before {
+  font-family: Fontello;
+  font-style: normal;
+  font-weight: 400;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: 0.2em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  margin-left: 0.2em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-twitter[data-v-2dcfd48e]:before {
+  content: "";
+}
+.button-social [data-v-2dcfd48e] {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.button-social[data-v-2dcfd48e] {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  cursor: pointer;
+  padding: 7px 10px;
+  margin: 3px 1.5px;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+.button-social[data-v-2dcfd48e]:hover {
+  opacity: 0.9;
+}
+.button-social__square_edges[data-v-2dcfd48e] {
+  border-radius: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+}
+.twitter__design__flat[data-v-2dcfd48e] {
+  background-color: #1da1f2;
+  color: #fefefe;
+}
+.twitter__design__gradient[data-v-2dcfd48e] {
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#1da1f2),
+    to(#31b5ff)
+  );
+  background-image: linear-gradient(180deg, #1da1f2, #31b5ff);
+  background-image: -ms-linear-gradient(to bottom, #1da1f2, #31b5ff);
+  color: #fefefe;
+}
+.twitter__design__outline[data-v-2dcfd48e] {
+  background-color: #fefefe;
+  border: 1px solid #1da1f2;
+  color: #1da1f2;
+}
+.title-social[data-v-2dcfd48e] {
+  margin-left: 6px;
+}

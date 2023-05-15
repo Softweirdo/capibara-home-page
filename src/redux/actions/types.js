@@ -1,0 +1,17 @@
+// Tost types
+export const SHOW_TOAST_NOFITICATION = "SHOW_TOAST_NOFITICATION";
+export const REMOVE_TOAST_NOFITICATION = "REMOVE_TOAST_NOFITICATION";
+
+// Accounts Types
+export const SET_SETTING_REQUEST = "SET_SETTING_REQUEST";
+
+// Gift Card Types 
+
+export const SET_CATEGORY_LIST = 'SET_CATEGORY_LIST';
+export const SET_GIFT_CARD_LIST = 'SET_GIFT_CARD_LIST';
+export const SET_GIFT_CARD_DETAIL = 'SET_GIFT_CARD_DETAIL';
+
+//check out 
+export const SET_PROMO_CODE_DETAIL = 'SET_PROMO_CODE_DETAIL';
+export const CHECK_PROMO_CODE =  "CHECK_PROMO_CODE";
+export const SET_ITEM_TO_CART = 'SET_ITEM_TO_CART';
